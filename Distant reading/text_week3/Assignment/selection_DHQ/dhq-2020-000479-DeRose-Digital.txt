@@ -1,0 +1,298 @@
+Digital Humanities on Reserve: From Reading Room to
+               Laboratory at Yale University Library
+Catherine DeRose
+Peter Leonard
+25 September 2020
+
+
+Introduction
+
+The Franke Family Digital Humanities Laboratory. Photo
+credit: Mara Lavitt.
+A historic reading room from 1931 is the site of one of the newest scholarly support
+environments at Yale University: The Franke Family Digital Humanities Laboratory.
+While neither the first renovation of the space — the room shifted from reserve books
+to periodicals in the 1970s — nor the first home of the lab, which relocated from a
+room requiring a campus ID for access to a publicly accessible, much larger space —
+the transition of a reading room to a digital humanities (DH) laboratory represented
+a new kind of commitment from the Library that required structural, aesthetic, and
+programmatic transformations. The goal was to create a collaborative, open workspace
+where the practice of digital humanities would be visible, accessible, and supported
+within Sterling Memorial Library, the so-named heart of the
+university
+(#schiff2005). Specific design and policy interventions informed the
+reimagining of this central and symbolic space. This article considers the role of DH
+labs as humanities infrastructure, with a focus on how
+location, materials, and services could be designed to support DH research and
+training within libraries.
+The transformation of this particular room, and the services found inside it, are
+part of a larger process of libraries formalizing their support for digital
+humanities in response to local needs and resourcing (#lippincott2015)
+(#webb2018). As staff members in Yale University Library and DH
+practitioners ourselves, we chronicle the project from the perspective of both
+library service design and new forms of academic collaboration. Ethnographic study,
+user-centered design, and a focus on the materiality of both physical and digital
+collections combine to suggest one pathway for research libraries to create spaces
+that offer localized support for collaborative digital work in the humanities.
+From Reading Room to Digital Humanities Lab: Reimagining a Library Support Space
+
+The Reserve Book Room in April 1931, shortly after opening. Photo credit: Yale University Manuscripts & Archives.
+In the 2019 Debates in Digital Humanities, Neil Fraistat
+calls for a reimagining of lab programming, one that moves away from faculty
+fellowships toward incubator models that provide more training and capacity-building
+support (#fraistat2019). We extend this call to consider how the
+physical design of labs contributes to the services offered therein. Many
+universities and colleges have built successful models where a DH lab or center is
+affiliated with a single department or faculty lead: Stanford’s Literary Lab was at
+one point physically housed within the English department, for example. More and
+more, however, labs are forming within libraries. Joan Lippincott observes that
+more libraries are recognizing that they may want to invest
+resources, including staff expertise and time, technology infrastructure such as
+repositories, and physical spaces such as digital scholarship centers or labs, to
+make a more formal commitment by the library to this type of scholarship
+(#lippincott2015). This extension of library support for digital
+training spans the United States, with examples from the University of California Los
+Angeles, the University of Wisconsin-Milwaukee, Rutgers University, University of
+Virginia, and Brown University, to name a few. But even within libraries, the focus
+and design of labs vary. Katy Kavanagh Webb’s recent survey of digital support
+separates labs into groups covering Digital Media, Digital Humanities, Data
+Visualization, and Makerspaces (2018), each of which has its own spatial constraints
+with respect to the kind and amount of hardware needed, which in turn affects its
+design flexibility.
+At Yale, the Digital Humanities Lab (DHLab) has always been physically and
+organizationally located within the Library, tasked from the beginning with
+supporting scholarship across the humanities broadly considered. In addition to
+departmental diversity, the audience for DH support has included a broad set of
+clients, from Yale College students, graduate students, faculty, curators, and
+librarians to occasional collaborations with external partners. This range of
+disciplinary and professional perspectives presented unique opportunities and
+challenges for designing a space that would be inspiring, inclusive, and
+functional.
+Moving DH labs into libraries invites a rethinking of library spaces that were
+originally designed for oftentimes siloed engagements. Completed in 1931, Sterling
+Memorial Library contains nearly 450,000 square feet of space to support learning and
+research. Positioned immediately to the left of the main entrance, the Reserve Book
+Room (Figure 2) was an integral part of architect James Gamble Rogers’ design. The
+room and its support areas total over 4,000 square feet and were designed to hold
+10,000 volumes on wooden shelves that flank the northwest and southeast walls. Large
+expanses of leaded glass windows bring filtered natural light into the room, rising
+to a ceiling of decorative plasterwork and chandeliers. The abundance of
+craftsmanship is characteristic of Sterling Memorial Library as a whole, completed at
+a time when the Great Depression enabled new campus construction nationwide at
+relatively low cost. Yet the Reserve Room itself was described by contemporary
+observers as a place of relative moderation: Inasmuch as the
+Reserve Book Room is really a work room where students go for study, wrote
+alum Ellery Husted in the Yale Library Gazette the year
+of Sterling’s opening, its architectural treatment is more
+restrained than the other large reading rooms which filled the main floor
+of the new library (#husted1931). The Reserve Book Room served its role
+as designed well into the 1970s, when the construction of the new underground
+Cross-Campus Library (now renamed Bass Library) opened up more modern space for
+perusal of reserved books. As a result, in 1973, the room changed its function to
+housing periodicals, continuing in that capacity through a renovation in the late
+1990s that included new furniture and a renaming to the Franke Family Reading Room in
+honor of a gift from Barbara and Richard Franke (Class of 1953), who share a longtime
+commitment to supporting the humanities.
+By the early 2010s, consensus had built on campus that the room could serve a more
+prominent role in the future of research in the arts and humanities. With the
+availability of other rooms within Sterling to hold print periodicals, the space
+seemed ripe for reimagination. Discussions imagined a Digital Center for Arts and
+Humanities, modeled on the successful launch of the Center for Science and
+Social Science Information (CSSSI) in a 1960s building in 2012 (#fox2012)
+(#thondavadi2012). That renovation project successfully provided a home
+for the science and science libraries, 24-hour study space, and support for data
+analysis in the basement of a science building. Subject specialists in that new space
+worked in glass offices surrounding a central collaborative work area, where advanced
+statistical consulting was also provided by graduate students. CSSSI thus provided a
+new template at Yale for how subject specialists, technology, and data services could
+complement traditional library offerings such as print collections and periodicals.
+The challenge was how to adapt this support model for a significantly older, and less
+flexible, space.
+Indeed, the design and materiality of the Franke Room was naturally much different
+than the 1960s environment in which CSSSI was built. Instead of the basement of a
+mid-century building, the Franke Room contained wooden carvings, leaded glass, and
+plasterwork designed to evoke the early English Renaissance. Built-in bookcases lined
+the room up to a height of nine feet, transitioning to walls that were designed to
+appear uneven, as if finished by hand.
+At the same time, the integration of the Franke Room into the architectural and
+material fabric of Sterling Memorial Library also offered advantages (Figure 3). In
+contrast to the disciplinary-specific reading rooms on higher floors (and behind
+access gates that require Yale IDs), the Franke Room is near the main entrance on the
+ground floor, open and accessible to all, making it a strong candidate for a large
+and welcoming space designated for the exploration of new ideas and methods.
+As a design team of architects and library staff examined the room’s complex
+materials and physical adjacencies, several intriguing possibilities emerged. Given
+the room’s close proximity to the library’s physical collections, the reimagined
+space could position DH as contiguous with older traditions of humanities research
+rather than a radical break from it. The presence of a substantial print collection
+in the building could serve as a reminder that the root material for many digital
+projects is the print book or periodical. From a workflow perspective, this proximity
+could also streamline the research process: if the lab had equipment available for
+digitization, researchers could pull books from the stacks and bring them straight to
+the lab where they could transform them into machine-actionable data.
+
+The Franke Family Digital Humanities Laboratory (lower left) in the context of
+Sterling Memorial Library.
+The original infrastructure of the room also contained large amounts of hidden
+reserve book shelving behind a long, adjacent wall that was accessible only to
+library staff. The design of the DHLab re-imagined this back-of-house area,
+opening it up to support collaborative meeting spaces and on-site offices for lab
+staff. The 1930s ideal of hiding the mechanical aspects of scholarly support space
+would give way to exposing this previously backstage area to the patrons in the main
+room.
+Requirements Gathering: Identifying and Responding to Local Needs
+Planning for DH support at Yale coalesced in the early 2010s, ranging from
+conferences (#yale2010)
+(#yale2013) to graduate student-led working groups and informal
+committees. (For an overview of reactions to this effort, see Svensson 2012.) The Library first advertised a
+Librarian for Digital Humanities Research in the late 2000s, but did not fill the
+position until 2013. Throughout this time period, graduate students, librarians, IT
+staff, and faculty continued to advocate for more structured support — along with
+dedicated space — for DH inside the library. These conversations were focused into an
+informal committee led by the Deputy Provost for Humanities and Initiatives,
+resulting in, among other things, a comprehensive survey of faculty and graduate
+students who self-identified as having DH interests. This reportwas essential in cataloging and characterizing the ways
+that scholars on campus wished to combine humanistic inquiry with new digital
+techniques, and it laid the groundwork for coordinated effort to further Yale’s
+support for scholarship in this area. In 2015, Yale University Library received
+support from The Goizueta Foundation to inaugurate a comprehensive initiative in
+science, technology, engineering, arts, and mathematics (STEAM) education by
+launching the DHLab (#patrick2014). Recognizing the Franke Family
+Reading Room as a natural home for the new initiative, the Library began a multi-year
+design process with student, faculty, and staff stakeholders to identify campus needs
+and aspirations for DH support, which would inform the design of the space.
+Whereas the sciences have long-established models for constructing lab spaces
+outfitted to their research needs, the humanities have operated more in a tradition
+of individual work. DH labs create opportunities for collaborative work that brings
+together different sets of expertise and equipment to pursue humanistic inquiries at
+varying scales. The challenge in designing such a space revolves, in part, around
+striking the right balance between different needs and possibilities. For example,
+should the room be a fully open workspace, or should it provide areas explicitly
+marked out for different functions? Which is more likely to spur activity: a space of
+unstructured possibility, or one that actively suggests particular modes of
+engagement? Is a computer with a large monitor actively displaying an interactive
+visualization more, or less welcoming, than an open table? In describing Penn
+Libraries’ integration of DH, Anu Vedantham and Dot Porter underscore that [s]paces designed to encourage brainstorming and discussion need to
+look, feel, and function differently from those designed to support deep reading,
+note taking, writing, or presentation practice
+(#vedantham2015). Connected with the desired activity of the space,
+however, is the overhead required to maintain it, from both a staffing and budgetary
+consideration. What happens when the computer needs replacement – much sooner than
+the table? Who will produce and update the content displaying on the digital screens?
+A workspace unencumbered by machines affords different kinds of engagement with a
+space and the people inside it than does one filled with monitors. The computer
+lab concept, with rows of fixed workstations, seemed to the design team to
+belong to an older model, which was confirmed by site visits to newly designed spaces
+that were more flexible in their layout, with some equipment balanced by open
+workspaces (Northeastern, Brown, and others). In their 2015 survey Building Expertise to Support Digital Scholarship: a Global
+Perspective for CLIR, Lewis et al. noted variation in
+the kind of facilities these organizations occupied;
+collaborative space seemed to be more important than top-notch hardware
+(#lewis2015). Columbia University’s Studio@Butler, for example, launched in 2013 with an explicit goal to
+de-emphasize computing equipment in the service of foregrounding human collaboration
+(#studio2013). At the same time, access to specialized hardware and
+software normally out of the reach of students can lower barriers to casual
+experimentation and initial engagement with digital forms of scholarship. The
+question seems to be, then, what percentage of the room should equipment (computers,
+scanners, virtual reality headsets, 3D printers) occupy?
+To acknowledge, anticipate, and address, the specific DH needs on our campus, the
+Library engaged design anthropologist Nancy Fried Foster, formerly the senior
+anthropologist at Ithaka S+R, for an information-gathering phase during which she
+helped collect input from the Yale community. With Fried Foster, the design team
+conducted interviews during 2016 with current clients of the DHLab, as well as those
+who had not used such services in the past. The goal of including researchers who did
+not identify as digital humanists was to ensure that the design team did not
+overfit the service portfolio and architectural design to those who had
+already availed themselves of DH support services on campus. Fried Foster describes
+the user-centered design process as one that begins with an
+understanding of work practices and obstacles and then designs solutions to
+support workflows and address identified problems. It is inclusive and
+participatory, and is intended to improve outcomes by building a foundation of
+valid, up-to-date information about the community for use by designers and
+architects
+(#foster2016). This phase of information gathering was
+critical for grounding our assumptions of scholars’ spatial and technical needs with
+respect to DH research. The user-driven assessment included three types of
+engagements:
+in-person interviews with students, faculty, and staff from different
+disciplinary backgrounds — though predominantly from the humanities — many of
+whom had been involved in DH activities on campus in some way, whether that
+meant they attended workshops, came in for consultations, or had their own
+projects underway (for more on the interview process, see Library Design and Ethnography, which describes a comparable
+information-gathering process at the University of Rochester ).
+design workshops during which participants were asked to imagine different
+spatial, personnel, and technical configurations of the DHLab, and
+benchmarking research informed by colleagues’ experiences at other
+institutions via site visits, Skype conversations, and reading.
+The design workshops were particularly illuminating for seeing how researchers
+imagined engaging with the new space. The first workshop asked participants to draw
+their ideal spaces, including what technology they would like to see in the room and
+what sort of activities should be supported. The outputs from the first workshop
+became the basis for the second workshop, which took the list of imagined equipment
+and activities that might take place in the space (such as designated workshop areas,
+staff offices, desktop computers, flexible workstations, reception desks) and printed
+them on separate strips of papers. Participants then arranged those pieces of paper
+around a space roughly scaled to the Franke Room. Each strip had multiple copies so
+that if, for instance, a participant thought there should be five desktop computers
+and two workshop areas, they could arrange the room accordingly. There was no
+requirement that participants use strips from all of the different resource or
+activity types.
+Patterns from the sessions helped inform priorities for the renovation, including the
+need for separate programmatic spaces for consultations, collaborative work, and
+project exhibitions. Participants wanted to have ready access to DHLab staff, but
+they recognized the need for staff to have occasional privacy as well. Large display
+screens emerged as a significant request for both collaborative work and exhibitions,
+which drove conversations among the design team toward the notion of a large-scale
+data canvas as a possibility for visualizations. Meanwhile, conventional
+desktop machines were lower on the list of must-have equipment: most students,
+faculty, and staff preferred working from their own laptops, but they acknowledged
+that a few high-end desktop computers in the DHLab would be helpful for accessing
+software and for more computationally intensive projects.
+While the feedback received during the information-gathering phase was generally
+consistent, Fried Foster’s summative report (#foster2016) indicated a
+few trends that appeared specific to university affiliation: faculty expressed the
+most interest in defining the DH as a field, graduate students engaged the most with
+DHLab activities (training and funding opportunities, sponsored talks, projects), and
+undergraduates displayed the most curiosity and willingness to experiment, as well as
+the strongest interest in combining the Arts and Humanities and STEM (a concept
+denoted on campus as STEAM). Providing insight into researchers’ expectations and
+work practices, the formal information-gathering phase shaped subsequent
+conversations with architects over how to optimize the Franke Room to serve DH
+scholars on campus.
+During the time that design team was gathering requirements and beginning the
+architectural rendering process, the newly-formed DHLab — consisting of a Director
+(formerly the Digital Humanities Librarian) and the newly hired Engagement and
+Outreach Manager, User Experience Designer, and Digital Humanities Developer — began
+work in the repurposed rooms on the third floor. The constraints and opportunities of
+this temporary space led to several lessons that would, coupled with the design
+team’s assessment, inform the eventual design of the Franke Family Digital Humanities
+Laboratory. In particular, the team learned that placing its reference print
+collection of DH books on the old wooden shelves started innumerable conversations
+with curious visitors as well as clients who made appointments to meet with staff or
+other collaborators. As every book was placed on a metal stand that displayed its
+cover to onlookers, the breadth and diversity of scholarly publications in titles as
+Music Data Mining
+(#li2011)Text Analysis with R for Students of
+Literature
+(#jockers2014) spurred conversation and thought even among
+self-professed DH skeptics. In addition to theoretical and practical books on DH
+methodologies, the Lab also selected critical texts that sought to cast a
+complicating light on the larger, current Big Data moment: The Master Algorithm
+(#domingos2018)Debates in the Digital
+Humanities
+(#gold2012)Algorithms of Oppression: How Search
+Engines Reinforce Racism
+(#noble2018)
+(#monmonier2018)New Digital Worlds:
+Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy
+(#risam2018) were among the titles that sought to bring nuance and
+different perspectives to scholarly conversations around digital approaches. The
+oldest book on the DHLab’s shelf reflected the uncertainty for how computational
+methods would (or would not) be incorporated into humanistic pursuits: Computers for the Humanities? (1965) contains the
+proceedings of a conference held on Yale’s campus, with the sponsorship of IBM, with
+the terminal punctuation mark still an area of active debate amongst humanists and
+digital humanists alike. Having Computers for the
+Humanities? on the shelf of the DHLab creates a connection between Yale’s
+early, little known — even to us — interest in how the humanities would take up
+computation, and its present-day, expanded commitment to providing support for DH
+research and teaching.

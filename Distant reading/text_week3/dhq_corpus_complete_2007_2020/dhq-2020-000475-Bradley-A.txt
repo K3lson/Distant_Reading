@@ -1,0 +1,178 @@
+A Prosopography as Linked Open Data: Some Implications from DPRR
+John Douglas Bradley
+29 July 2020
+
+
+In a TED conference in 2009 Tim Berners-Lee gave a presentation entitled The Year open data went worldwide
+(#bernerslee2010). In it he gave some examples of how open data from
+governments, scientists and institutions could be used to make
+significant statements about the state of affairs in society. He then asked
+governments, scientists and institutions to support this kind of work by making more
+of their data freely available in a form where it could be further processed rather
+than just looked at. This was a part of what he called the Linked
+Data Initiative, and which has more recently often been called
+Linked Open Data (LOD).
+Berners-Lee has a scientific background, so perhaps it was not surprising that he didn't seem
+to think about LOD data from the humanities. Nonetheless, there is no technical
+reason why those Digital Humanists who have suitable data should not be be making
+their material openly available too. Indeed, the desirability of
+Linked Open Data from and for the humanities has been expressed by others in the
+digital humanities community for some time. One can, for example, see a similar
+motivation in the premise behind the workshop Linked Data for
+Digital Humanities that was held in the 2016 DHOxSS Summer School (#nurmikkofuller2016)RDF and
+Linked Open Data
+(#smith2017) at University of Victoria's Digital Humanities Summer
+Institute, and in other similar workshops that explore the ideas of applying Linked
+Open Data technologies to humanities-oriented materials.
+This paper introduces recent project work done at King's College London which makes one of
+its many online web resources available as Linked Open Data. The project is the recently completed
+Digital Prosopography of the Roman Republic (DPRR), and this part of its work was a response
+to Berners-Lee's TED talk challenge mentioned above in which he asked people to deliver their data as LOD.
+This paper is also a part of this response. Here we will consider why DPRR was the first humanities project
+by KCL to have its full set of data published as LOD data, and what in DPRR's characteristics made it particularly suitable
+for this. The paper will then explore what DPRR's LOD server looks like to a user, what kind of interactions with the
+data it makes possible, and how this connects with Berners-Lee's view of how LOD should be expressed. Having done
+this, it will then consider what might come from allowing anyone to get at this historical material directly as
+pure data rather than exclusively through a browser oriented front end which, as we will see below, acts as
+a focusing filter between the material-as-data and the user's browser. Does this direct access truly empower people
+to explore our material in the way Berners-Lee and other people who have taken up the LOD cause intend? Does
+it allow for new kinds of analysis and research to be carried out, hopefully revealing new insights for the
+materials that are not visible through even our rather sophisticated browser-oriented front end? Some part
+of this issue arises out of research about the nature of querying that has been carried out in the context
+of the Semantic Web, and we will briefly describe this here; contrasting the original AI-related vision of
+the Semantic Web in the late 1990s, with the more pragmatic Linked Data vision that emerged a few years later.
+And finally, how does DPRR's RDF server fit with one of the major interests from the Digital Humanities that
+have come out of LOD thinking: an interest in adding links from digital resources to standard authority lists
+such as VIAF (#viaf2010)
+to aid in the aggregation of data between different data sets?
+
+Why have DPRR as Linked Open Data?
+I started work at King's College London (KCL) in 1997, first at its Centre for Computing
+in the Humanities which was subsequently renamed the Department of Digital Humanities (CCH/DDH). Most recently
+I have also become associated with at a new unit at KCL called the King's Digital Lab (KDL). During this period
+CCH, DDH and KDL have built many academic resources in collaboration with humanities academic partners.
+In all these projects we have championed the concept of openness and accessibility. As a consequence, since
+the late 1990s we have, as conscious policy, made sophisticated online digital resources available for
+free over the WWW.
+One of the challenges for the work in which I particularly was involved arose
+out of the fact that almost all my collaborative academic projects took a strong
+data perspective to their materials. This is an
+approach which can seem very foreign to the text-orientation of much of the
+humanities and the digital humanities too. Having created a highly structured
+and complex set of data as a product of the scholarship, how could it be made
+accessible to the rather non-technical scholarly audience? Out of this issue
+came much work on how to present this complex data adequately through web
+applications. Indeed, the development of these delivery apps became a large part of
+CCH/DDH's standard project practice, and the focus was always (indeed, had to
+be, due to the intended audience) on making that access as non-technical as
+possible by creating a web application that mapped each project's data into
+dynamic web pages that could be displayed by any browser. Thus, although almost
+all browser-mediated resources created at KCL have been open and freely
+available, they have not really been conceived as providing direct access to the
+data behind the web application in the way that Berners-Lee
+meant for LOD in his TED talk.
+Recently, however, the Digital Prosopography of the Roman
+Republic
+(#mouritsenetal2017) was completed, and it presented us with an
+opportunity to publish the same material in two different forms. First, like all
+pre-existing data-oriented resources that we had created, DPRR has its web
+application that made access possible for nontechnical users. Second, however,
+and at very little additional development cost, DPRR's data has also been made
+available as pure data, in a form suitable for LOD.
+Why was DPRR the target for this work? From a fully pragmatic perspective, DPRR
+came to be expressed as LOD because in its AHRC funded research proposal we
+actually proposed offering direct data access, in the spirit of LOD, as one of
+the project's outcomes. Furthermore, RDF and related technologies had been in
+the mix within the Sharing Ancient Wisdoms project (SAWS)
+project which had been carried out with DDH as a partner, so there was some
+significant experience of RDF to draw on in previous work. However, we did not do
+the work of expressing DPRR materials in LOD-compatible ways only because we had
+promised it in the proposal, or because of our experience with the SAWS project,
+but because we believed that DPRR connected in particularly useful ways to the
+three components of the idea of LOD: openness, linked,
+and data, and we thought it plausible that by opening up DPRR in this
+way we would allow others to explore more richly what DPRR contains than what our
+conventional browser-oriented mechanisms, as sophisticated as they are, would
+enable.
+First, Openness: DPRR is a published prosopography, and we believe
+that, as such, it offers a highly suitable source for open data. A published
+prosopography is consciously intended by its creators for a global audience and
+for this reason it is ideally an open publication and compatible to many of the
+ideas of open data. This is particularly true for a prosopography which is free
+to all online, as DPRR is.
+Linked: DPRR is also a good example of scholarship that invokes the
+essential spirit and principles of linked data. Of course, DPRR hopes that
+modern Roman Republic scholars will explicitly link to it by referencing the
+historical entities — presumably primarily historical people — that it
+defines. If this happens, DPRR will become integrated into the global
+scholarship around the Roman Republic. However, DPRR has more significance to
+linking than just this. DPRR, like any prosopography, establishes formal
+identities for their historical persons out of the appearance of them in a range of
+sources, and it thus links these sources together through their shared
+historical people. However, DPRR takes a different approach to its prosopography
+than the other, factoid-based (defined in (#bradley2017a)), digital
+prosopographies in which DDH/CCH has been involved. Unlike these other
+prosopographies, such as the People of Medieval
+Scotland
+(#poms2014)Prosopography of Anglo-Saxon
+England
+(#pase2016), which draw almost exclusively on their projects'
+interpretation of their primary sources, DPRR has assembled and aligned work
+done by a range of already existing nineteenth, twentieth and twenty-first
+century prosopographies, and could thus be said, in itself, to represent a
+multi-source global graph (to use RDF terminology) of
+recent Roman Republic prosopographical scholarship. It, and many of the works
+upon which it draws, has been built on the work of T. Robert Broughton's study of
+office-holders (#broughton1951) which remains to this day a
+standard reference work. Furthermore, underpinning all these other
+prosopographies, including Broughton, is the monumental 83 volume nineteenth
+century Real-Encyclopaedie der classischen
+Altertumswissenschaft
+(#pauly1893) — referred to as RE and once called by a DPRR
+project member the "grandfather" of all DPRR's prosopographical
+sources. RE continues to provide the basis against which historical identity of
+individuals is argued even today. A full list of sources that provided data for
+DPRR can be found on their Bibiography page. (#mouritsenetal2017)
+at web page Bibliography.
+Data: Finally, DPRR is like DDH/CCH's many other prosopographical
+projects in that it is data-oriented rather than being, as traditional published
+prosopography has been, article oriented. Like PoMS or PASE, DPRR represents its
+materials in the form of highly structured data, and, like DDH/CCH's other
+structured prosopographies, is built on top of that quintessential highly
+structured paradigm: the relational database. Thus, DPRR's historical research
+work has been expressed in terms of the semantic concepts of
+entities, attributes and
+relationships as they are thought of in the relational
+data model.
+Overall, then, DPRR can be thought of as an ideal candidate for all three aspects
+of the LOD model: linked, open, and data oriented.
+To take DPRR's materials in its relational database and to turn it into LOD
+presented in the forms apparently meant by Tim Berners-Lee requires taking up
+technologies developed for LOD. Thus, we followed the thinking of the original
+developers of the Linked Data (LD) concept, and of the rather broader Semantic
+Web too, in adapting the Resource Description Framework (RDF) (#rdf2014) and its related components as fundamental technologies
+for expressing DPRR as LOD. RDF links have been described as the glue of the
+data web
+(#bizer2008), and RDF has been given by LD's
+original thinkers as a key part of Berners-Lee's four
+rules to allow published data to become part of
+a single global data space
+(#bizeretal2009). Furthermore, relational data structures
+(the paradigm used for organising data in DPRR) generally map particularly well
+onto RDF. As Berners-Lee remarks about RDF and the Semantic Web: [O]ne of
+the main driving forces for the Semantic web has always been the expression,
+on the Web, of the vast amount of relational database information
+(#bernerslee1998). Indeed, exactly because of this thinking within
+the fundamental design of RDF, the task of mapping DPRR's materials into RDF --
+turned out to be conceptually relatively straightforward.
+In the online descriptive material I have provided about the DPRR RDF server (#bradley2017b) tool
+(#d2rqnd) to map DPRR's database structures into RDF, how I
+created a basic semantic web ontology to supplement the DPRR data, and how I
+created an RDF server as a mostly stripped down, but in a couple of areas
+somewhat extended, version of the rdf4j
+(#rdf4j2017) workbench. I based much of the RDF server on rdfj4's
+workbench because I believed that it produced quite an elegant thin HTML-based
+wrapping around the RDF data that allowed a browser user to explore and better
+understand the data without having its HTML wrapping mask or
+hide the nature of the RDF. The server's functions are documented at (#bradley2017b)Using DPRR's RDF
+server.

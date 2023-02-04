@@ -1,0 +1,347 @@
+Dendrography and Art History: a
+                    computer-assisted analysis of Cézanne’s Bathers.
+Melinda Weinstein
+Edward Voss
+David Soll
+14 October 2019
+
+L. Paolo Veronese, Les Noces de Cana, 1563,
+oil on canvas, 22 ft. x 3 in. x 32 ft. Louvre (before conservation) R. Paul
+Cézanne, Baigneuse debout, s’essuyant les
+cheveux, 1869-71, oil on canvas, 11 3/8 in. x 5 1/8 in. Private
+Collection. A computer-assisted comparison using the newly developed
+DIAS/DENDRON ART (DDA) software of fifty-five oil paintings by Paul Cézanne,
+exhibited at the Galerie Vollard, Paris, in 1895, suggests that Cézanne’s
+Baigneuse debout, s’essuyant les cheveux,
+is highly related to Veronese’s Les Noces de
+Cana, in color, saturation, brightness, and complexity (Figures
+2-4). Further computer-assisted analysis using DDA suggests that Cézanne
+drew from Veronese a hidden compositional structure to
+organize his Bather paintings
+
+Introduction
+
+Wölfflin V.2
+Art history as an academic discipline is relatively new . In A New
+History of the Humanities: The Search for Principles and Patterns
+from Antiquity to the Present (Oxford: Oxford University
+Press, 2013), Rens Bod maps art history’s trajectory in the western
+world. For Bod, the formal study of art history begins with Vitruvius’s
+theory of harmonious proportion in On
+Architecture (15 BCE) and continues with Pliny’s discussions
+of illusionism in Natural History (77 CE).
+Though China had a thriving field of art historical scholarship in the
+Middle Ages, the western world produced few written discussions of art
+between Pliny and Alberti’s works. Bod cites Alberti’s On Painting (1435) as the first theoretical
+treatise on art, followed by Piero della Francesca’s On the Perspective for Painting (1435), A
+Treatise on Painting, attributed to Leonardo da Vinci and compiled by
+Francesco Melzi (1540), then Vasari’s Lives of the
+Most Excellent Painters, Sculptors and Architects (1550).
+Bod views the advent of the digital humanities as a natural extension of
+the general search for principles and patterns that directs humanistic
+inquiry. 311-325. Formally established in 1834 at the University
+of Berlin with the appointment of Franz Kugler (1808-1858) as the first
+professor of art history, Kugler and his successors Jacob Burkhardt
+(1818-1897), and Heinrich Wölfflin (1864-1945) instituted methods for the
+formal analysis of art and specified many categories used today for
+classifying art (#bod2013)Kugler divided art
+history into pre-Greek, classical, romantic and modern periods.
+Burkhardt identified the features of Renaissance art. Wölfflin
+distinguished Baroque from Renaissance art through the relations of
+differences principle employed in structural linguistics. In
+analytically comparing paintings, Wölfflin showed that Renaissance art
+is linear, flat, and closed, while Baroque art is painterly,
+deep, and open. Wölfflin is noted for using parallel projectors in the delivery of art history
+lectures so that images could be compared.
+Wikipedia contributors, Heinrich Wölfflin, Wikipedia, The Free
+Encyclopedia, (accessed September 13, 2017). https://en.wikipedia.org/wiki/Heinrich_W%C3%B6lfflin.
+If art history is relatively new as an academic course of study in the west,
+computer-assisted analysis of art is in its infancy,
+with Wölfflin, aided by slide projectors, as the first scholar to
+demonstrate the utility of technology in the field. Bod, p. 320.
+No matter how much the digital, computational
+approach is in its infancy, it provides a powerful tool for testing
+hypotheses relating to paintings. As the editors of
+Digital Art History note in their 2015
+inaugural issue, Wölfflin’s mode of comparison changed
+the method of art history for good:
+His scientific achievements were a game changer in
+perceiving, analyzing, and presenting works of art in the scientific
+world and beyond
+(#klinke2015)
+To say that comparisons have produced the categories that structure art
+history as we know it today is not overstating the case. In Collections and/of Data: Art History and the Art Museum in
+the DH Mode, Matthew Battles and Michael Maizels stress the
+centrality of the comparative slide lecture in the discipline. They write:
+The slide lecture maintains a powerful grip on the
+collective art-historical imagination; it is the format through which
+art historical [sic] training begins, and it is by far the most popular
+means by which the discipline spreads its views and virtues to the mass
+of uninitiated undergraduates.
+Matthew Battles and Michael Maizels, Collections
+and/of Data: Art History and the Art Museum in the DH Mode
+in Debates in the Digital Humanities
+(2016). http://dhdebates.gc.cuny.edu/debates/2. Lev Manovich,
+in the first issue of DAH concurs: to explore is to compare. And to compare, we first need to
+see
+(#manovich2015). While computer-assisted text
+analysis has a robust history since the 1950’s, the Proceedings of Computer Vision and Image Analysis of Art in
+2008, 2010 and 2011 are the only journals devoted to exploring
+computer-assisted methods for art analysis prior to DAH in 2015. In the 2008 Proceedings, editors David Stork and Jim Coddington propose
+that computers can reveal the fallibility in our
+perception and teach all of us to see with a more informed eye and
+mind
+(#stork2008)See also Vols. 7531 (2010) and 7869
+(2011). Computer-assisted methods of analysis can question the categories we already have, generate new
+ones, or create cultural maps that relate cultural artifacts in original
+ways
+(#stork2008). Since 2008, computer scientists in
+collaboration with museum curators have applied computational methods to art
+for conservation, reconstruction, and restoration. X-ray imaging, infrared
+reflectography, UV-induced fluorescent imaging, and photo-induced
+luminescence photography can reveal the under-layers of paintings, identify
+the properties of pigments and binders, authenticate artworks, detect
+forgeries, and gauge optimal designs for museum and digital displays.
+Computer algorithms are used to measure and count brushstrokes, sort and
+classify artworks by style, identify the salient features of an artist’s
+style, and produce three-dimensional models that illustrate an artist’s
+working methods.
+Even though digital tools make art available for viewing, pedagogy, and
+research like never before, The New York Times announced that The
+Metropolitan Museum is making 375,000 images from its collections
+available online for however you want to use
+them. The National Gallery of Art in Washington, The
+Rijksmuseum in Amsterdam, and the Museum of Modern Art in New York have
+also made their collections freely available to the public for
+downloading. Joshua Baron, MET Museum Makes
+350,0000 Images Free.
+New York Times, February 7, 2017.
+the use of data-enabled science, or algorithms, to interpret digitized art
+and compare painting styles continues to provoke skepticism among humanists.
+It should be difficult today to conceive
+of the computer as any more than a speedy idiot obeying a set of
+precise instructions; but many in the humanities do indeed continue
+to regard it as a black and magical (or black-magical) box — throw
+the data at it, and somehow the computer will make sense of
+them. Michael Greenhalgh, A Companion
+to Digital Humanities. http://www.digitalhumanities.org/companion/. Stephen Ramsay
+in Humane Computation, summarizes
+objections to DH: There are many who think scatter
+plots filled with data points drawn from, say, English novels, are
+already a crime against the humanities — the death of all that is good
+and pure about humanistic study. For them, the problem is positivism
+in its properly technical sense. They fear an epistemology that does
+not merely value empirical data, but which (in its extreme
+philosophical forms) considers empirical data to be the only valid
+form of evidence. They imagine a computationally driven history or
+French literature curriculum that forsakes the ancient circle of the
+seminar for the modern angles of the server room. They imagine
+humanistic conversation debasing itself in the form of technical
+cavils, humanistic ethics becoming nothing more than practical
+business ethics, and teaching degenerating into mere
+training. As Stephen Ramsay observes in Humane Computing: They fear
+an epistemology that does not merely value empirical data, but which (in
+its extreme philosophical forms) considers empirical data to be the only
+valid form of evidence
+(#ramsay2016). We believe that the visualizations produced by
+computer applications do not replace direct experience of the artifact.
+Correlations do not necessarily indicate causality or an ultimate
+relationship in every instance. While a computer may place together certain
+artists with similar styles in a cluster, this does not always imply that
+there is a historical relationship between them, as their styles may have
+simply undergone convergent evolution. The computer’s lack of historical and
+artistic context means that the process always has a requirement of human
+interpretation.
+We propose here computer-assisted techniques for comparing color, saturation,
+brightness and complexity between digitized paintings that updates
+Wölfflin’s method. No studies of digitized art to date use dendrography, a
+well-established method in computational biology since 1990. DIAS , an image analysis program, and
+DENDRON (#soll2000), a method for generating
+trees reflecting relatedness, are patented, tried-and-true software
+programs. Over 400 citations in peer-reviewed literature for the basic
+methods paper describing DENDRON support efficacy (#soll1995).
+Dendrography pre-dates the bourgeoning field of artificial intelligence and
+machine learning. The efficacy of the very latest computer cognition systems
+based in machine learning is viewed at this time as inconclusive. As Science Daily (1/7/19) reports in Can artificial intelligence tell a teapot from a golf
+ball? Severe limitations of deep learning machines — even
+the latest programs cannot accurately identify shape when a pattern
+associated with another shape is grafted onto it. Machine learning systems
+are easily fooled.
+www.sciencedaily.com/releases/2019/01/190107131236.html.
+Accessed 1/9/19. Dendrography is a traditional computer-assisted
+method of comparing images and patterns. To that end, we believe that the
+computer applications DIAS and DENDRON, having been validated in many
+fields, may reliably extend the senses,
+In the context of book history, and the shift from orality to
+literacy, Marshall McLuhan discusses the way technology
+extends the senses in The
+Gutenberg Galaxy: The Making of Typographic Man. Toronto:
+University of Toronto Press, 1965. 40. of the art historian. The
+visualizations they produce suggest similarities between paintings easily
+missed by human beings whose capacity to compare is limited by conceptual
+and subjective bias, lack of access to a work, or any number of reasons that
+make creating interesting comparisons challenging.
+Dendrography has enormously productive applications for the comparison of
+formal and iconographic elements in paintings. Since formal analysis is
+often viewed as outdated in today’s art history, its potential as a subject
+for computational analysis has been overlooked (except for the few
+curatorial forays in this direction). As such, our approach not only
+attempts to see the value of the computational method, but also what DENDRON
+and DIAS may do to open up in surprising new ways what has been considered a
+finished part of the field. This may be the first study in digital art
+history that uses dendrography to cluster similar paintings and that employs
+computer programs to calculate golden rectangles in paintings for
+comparative purposes. The ever-growing raft of digitized paintings online,
+and the continual improvement of digital photography, calls for
+computer-assisted methods as long as these programs are reliable, the
+questions posed are appropriate for computer-assisted investigation, and the
+final interpretations are considered just that, namely interpretations.
+Using the newly customized DIAS/DENDRON (DDA) programs (Appendix I), we investigate in Part I a
+persistent connection between Les Noces de Cana
+by Veronese and Cézanne’s first female bather La
+Baigneuse debout, s’essuyant les cheveux. Les Noces de Cana is enormous in scale, more than twenty-two
+feet by thirty-two feet in height and length, while the baigneuse is tiny, only eleven inches in height and five inches
+in width. Les Noces de Cana’s subject matter is
+biblical, Christ transforming water into wine at the marriage feast, while
+Cézanne’s work is prosaic, a woman drying her hair after a bath. A
+traditional art historian, guided by genre expectations, might conclude that
+scale and theme obviate potential connections between the works, but using
+DDA, which normalizes scale, we can grasp surprising connections. Now, using
+DDA analysis, we can see how Cézanne capitalizes on Veronese’s color scheme
+in his first female baigneuse. We may also use
+DDA to suggest new approaches to old problems. For example, Cézanne painted
+over eighty bathers in his lifetime, but these paintings continue to mystify
+scholars. To date, they are mostly interpreted in psychanalytic terms as
+representing Cézanne’s repressed sexuality and/or aggression.J.T.
+Clark’s famous Cézanne’s Freud. Representations 52. Fall 1995 is
+representative of this approach. Of Cézanne’s Baigneurs en repose he writes, never,
+for a start, has a picture declared itself so openly — so awkwardly
+— made out of separate, overdetermined parts coexisting only in
+sufferance. 94. When we saw that Cézanne’s baigneuse might be intimately connected to Les Noces de Cana, we then employed DDA to explore
+potential similarities in composition. In Part 2, using DDA analysis, we
+discovered that the composition of Les Noces de
+Cana is based on axial symmetry and the golden ratio (phi). When
+we apply DDA to identify axial symmetry and the golden ratio to Baigneuse debout, s’essuyant les cheveux and the
+rest of Cézanne’s bathers, we find that Cézanne imitates the composition of
+Les Noces de Cana in virtually every bather
+painting. Based on axial symmetry and the golden section, then, we have
+formulated a computer-assisted approach to seeing
+Cézanne’s composition in his Bather series. Cézanne’s bathers, formerly
+perceived as awkward and composed with baffling imbalance, can now be viewed as golden
+(#danchev2013). With DDA, we find that Cézanne is
+more likely guided by mathematics in designing his bather paintings, rather
+than by unconscious drives or motives.
+This approach is an intervention in the newly established trend within the
+digital humanities of the micro-digital
+humanities.The practices
+include the embrace of minimal computing, small data sets, local
+archives, and freely available platforms for creating small-scale
+digital humanities projects while working with undergraduate
+students. Roopika Risam and Susan Edwards, Micro DH: Digital Humanities at the Small
+Scale
+https://dh2017.adho.org/abstracts/196/196.pdf. We are
+not, as Michael Greenhalgh imagines of digital art historians, throw[ing]
+data at the computer while hoping that somehow the computer will make sense of them
+(#greenhalgh)the
+great unknown
+(#cohen2009) for connections between texts or visual images,
+instead, we are comparing smaller curated datasets in order to measure
+influence between a master and student, a source and a re-imagining.
+In Distant Reading and Intellectual
+History, Ted Underwood writes that distant reading doesn’t overemphasize technology, and it candidly
+admits that new methods are mainly useful at larger scales of
+analysis. Our work here scales down a distant reading
+approach. 138 paintings is still more than the brain can handle in
+making comparisons, nevertheless, the data set is small enough to allow
+the researcher to toggle between the images and graphical output to
+verify hypotheses and make discoveries. In this case, we are
+comparing fifty-five curated digital facsimiles of Cézanne’s oil paintings
+exhibited in Ambroise Vollard’s 1895 Salon to Veronese’s Le Noces de Cana, a source Cézanne
+identified as influential to him as an artist.
+Standing before Les Noces de Cana, Cézanne is
+reported to have said regarding its color:
+That is what a painting should give us, a harmonious
+warmth, an abyss in which the eye can sink, a silent germination. A
+state of grace in colors…To love a painting, first you have to drink
+it in this way, in long drafts, lose consciousness; descend with the
+painter into the dark, complicated roots of objects come up again
+with colors, bloom with them in the sun. You have to know how to
+see, to feel, especially in front of a great machine such as the one
+Veronese built
+(#doran2001) Art Historian Susan
+Sidlauskas describes Cézanne’s experience of the Veronese painting as like
+a mystic’s fusion with the deity
+(#sidlauskus2004). Cézanne thought of Veronese’s
+colors as great noumenal entities, living ideas,
+creatures of pure reason…with whom we might correspond
+(#doran2001)great
+machine, we take Cézanne to mean that Veronese’s work delivers
+to the aspiring painter figure studies, compositions, color combinations and
+more, structures that an artist can imitate.
+Quality of digital reproductions
+As Philip Ball observes in Bright Earth, all reproductions are approximations
+(#ball2001)Can digital images replace
+physical paintings as serious objects for study? Certainly, there are
+irreducible elements to paintings that do not translate well
+electronically or in print, and that demand first-person viewing, such
+as the luminous and changing effects of varnishes and glazes on
+paintings, and the layering and aging of paints. Whether in print or
+online, all reproductions of paintings are
+approximations. In even the most expensively
+illustrated books, the same paintings may vary in color. Phillip Ball
+discusses the limitations of print and the digital reproductions of
+works of art in Bright Earth. He observes
+how for a coloristically complex picture like
+Danae, no two reproductions will look the same.
+Nevertheless, All written discourses of art must
+rely on reproductions to make their point. Art Historians
+depend on approximations for their work, and computer-assisted systems,
+though they convert these approximations into numbers, can provide us
+with data that is inaccessible subjectively, data that the researcher
+must interpret. And in regards to Les Noces
+de Cana and Cézanne’s bathers, we must ask of any facsimile
+whether it is well or badly reproduced
+(#latour2011). Digital reproductions must be as
+close to the original as possible. Bruno Latour and Adam Lowe discuss at
+length Les Noces de Cana’s complex
+trajectory as an image. What Cézanne saw between
+1861, his first trip to Paris, until his death in 1906 is not the Les Noces de Cana that we see now in the Louvre,
+as conservationist efforts have modified the painting. Currently Les Noces de Cana exists in its
+original (though repainted) version at the Louvre,
+and it exists in a fully restored version, based on
+digitization, housed in its original context, in a
+Benedictine refectory in Venice. The Louvre Les Noces
+de Cana is considerably darker than the Benedictine digital
+facsimile. The coat of the server depicted in the foreground of the Louvre
+Les Noces de Cana was originally red but
+was changed to green in 1989. Thus, no version today is exactly what Cézanne
+saw. For our purposes here, we use a digitized image of the pre-1989 Les Noces de Cana, with the tabard in his
+original red coat. This, perhaps begrimed with more
+dust, is the closest approximation to what Cézanne
+would have seen. However, we demonstrate that DDA grouped Baigneuse debout, s’essuyant les cheveux in the
+same cluster with both renditions of Le Noces de
+Cana in dendrograms (Appendix
+II).
+Choosing Cézanne’s paintings for computer-assisted analysis is also
+complicated. Cézanne left many works unfinished, therefore, we selected for
+this study paintings exhibited during his lifetime. The paintings exhibited
+in the 1895 Vollard exhibition is an exemplary dataset for computation, as
+it was Cézanne’s first one-man show, with examples of paintings from every
+stage of his development. Most important, we can presume Ambroise Vollard,
+Cézanne’s friend and patron exhibited the works as
+finished with the artist’s support. For information
+about Cézanne’s paintings, and for digital facsimiles, we relied on John
+Rewald’s printed Catalogue Raisonné and Walter
+Feichenfeldt, Jayne Warman and David Nash’s The
+Paintings of Paul Cézanne: an Online Catalogue Raisonné
+(#rewald1996)Supplemental
+Table I lists all paintings used for this study and their digital
+and material provenance. All digital images are in the public domain for
+research and educational use. When there were multiple versions of digitized
+images on the web with different levels of brightness, saturation, and
+coloring, we consulted the online Catalogue
+Raisonné, for the best match, or the websites of the museums
+that housed the work. In many cases, we checked digital facsimiles against
+original paintings on site in New York, Philadelphia, Chicago, and Detroit,
+not only for accuracy in color, brightness, and saturation, but also for
+correct margin between figure and frame for our geometric partitioning.

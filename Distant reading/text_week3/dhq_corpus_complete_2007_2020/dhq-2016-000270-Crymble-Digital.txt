@@ -1,0 +1,49 @@
+Digital library search preferences amongst historians and
+                    genealogists: British History Online user survey
+Adam Crymble
+4 October 2016
+
+Is there anything the librarian can do
+to improve the success of all browsers, or at least improve the
+success of the average browser?
+(#morse1970)
+Understanding the searching and browsing needs of a digital library’s core users is
+important for anyone building a new online resource or refreshing an existing one
+(#agichtein2006a)British History
+Online (BHO) was seeking to rejuvenate its navigation and architecture
+after a decade in production and sought the direct feedback from its users to shape
+that process via a voluntary user survey of individuals who had registered accounts
+with the project. Volunteers were recruited through an email sent in May 2014 to all
+6,301 registered users of the site, which included those with paid subscriptions,
+but also those repeat users who opted to sign up for a free account to take
+advantage of bookmarking features. 1,439 people responded to the survey call,
+representing a response rate of 22.8%. This paper discusses the findings of that
+survey as well as how they provide us with new understanding of the different needs
+and expectations of academic historians and genealogical users of digital libraries
+and archives, providing a basis for future conversations on identifying user needs
+more broadly.
+BHO is a digital library of key printed primary and secondary sources for the history
+of Britain and Ireland, with a principal focus on the period between 1300 and 1800.
+The project is an initiative of the Institute of Historical Research, part of the
+University of London. The collection currently contains 1,250 volumes, and 120,000
+web pages of material (each comprising the equivalent of many pages of
+original printed work). The site has particular strengths in the late medieval and
+early modern periods up to about 1660, as well as a strong local history
+collection.About British History Online,
+British History Online (version 5.0)
+https://www.british-history.ac.uk/about. As such it is both
+unique and typical of digitisation initiatives that contain primary or secondary
+source material.
+BHO is a product of an evolution in digitisation stretching back to early attempts at
+microfilming and microfiching in the last century, but also early digital text
+collections such as Project Gutenberg
+(#hart1971) as well as multimedia endeavours including the Electronic
+Beowulf project (#kiernan1999). It is also specifically the product of
+a set of British digitisation initiatives from the turn of the twenty-first century
+that focused on digitising British historical source material. These included The Clergy of the Church of England Database, , The Old Bailey Online
+(#hitchcock2002)Charles Booth Online
+Archive
+(#donnelly2002)Eighteenth Century
+Collections Online
+(#anon1999)Early English Books
+Online

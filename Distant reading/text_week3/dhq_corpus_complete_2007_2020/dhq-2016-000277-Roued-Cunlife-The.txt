@@ -1,0 +1,557 @@
+The Digital Future of Humanities through the Lens of DIY
+                    Culture
+Henriette                        Roued-Cunlife
+8 November 2016
+
+
+Introduction
+Do the humanities by necessity have a digital future? This question is answered
+by understanding the humanities as the study of human culture and cultural
+material, both on and off the Internet. This paper will use DIY
+(Do-It-Yourself) cultural material and practises as a way to understand this.
+First the phrase and concept of DIY culture will be unpacked:
+DIY culture is here defined as the social world of people engaged in DIY
+activities, which can be anything from building a shed or knitting a sweater to
+running a food co-op, with the prerequisite that the practitioner has no
+relevant formal education or training. DIY culture can, in many ways, be seen as
+simultaneously an online and an offline culture, with a complex relationship
+between digital and non-digital activity and interaction. Due to its rising
+relevance, particularly on the internet, it is important that the humanities
+include the study of DIY culture and its cultural products - digital,
+non-digital and everything in between.
+The humanities are generally defined as the disciplines that examine human
+culture, or in other words the products of the human mind, both tangible and
+intangible, such as music, arts, crafts, rituals, literature and linguistics.
+The humanities have a long history of attempting to understand these different
+products of the past and the present. The methods with which these attempts have
+been made often strongly depend on the formats of the material as well as on the
+technology that is available to the scholars in question (#bod2014)
+This paper suggests that cultural material produced by DIY practicioners should
+be the subject of much future research in the humanities, and through examining
+both products and practices from DIY culture, we can understand the future of
+humanities scholarship as both digital and non-digital, online and offline.
+DIY culture
+DIY culture constitutes an important part of human culture today. Gelber (1999)
+portrays productive leisure activities (hobbies) as an antidote to
+more problematic leisure activities (e.g. drinking or gambling) and idleness
+following in the wake of the separation of work and leisure brought on by
+industrialisation. An antidote supported by authorities:
+Teachers, recreation directors, journalists, and other
+voices of authority have felt free to encourage the autonomy and
+creativity of hobbies because even if they sensed that hobbies could
+critique regular work, they also recognized that hobbies’ triumph over
+idleness was a victory for the values of a market economy.
+(#gelber1999)
+
+In other words:
+Hobbies have been a way to confirm the verities of
+work and the free market inside the home so long as remunerative
+employment has remained elsewhere.
+(#gelber1999)
+
+Gelber uses the existing term hobbies (which after 1880 came to be
+known as a productive use of free time rather than a dangerous obsession) to
+talk about productive leisure activities such as collecting, handicrafts,
+husbandry, amateurism and volunteerism. Stebbins, on the other hand, has
+hobbies, amateurism and volunteerism side by side as different types of serious
+leisure pursuits (#stebbins2007). In Gelber’s view, DIY (which
+includes crafts and maintenance) is a less creative and more productive hobby
+focussing on producing something useful and perhaps necessary to the household.
+Matchar, on the other hand, focuses on the household aspects in the term
+new domesticity - returning to productivity in the home:
+Our nostalgia for old-fashioned home and hearth has
+transformed our food culture as well. Who hasn’t tried canning jam or
+making their own pickles? Young women who, had they been of age in the
+1990s, might have been boozing it up in the Meatpacking District [New
+York neighbourhood] are now spending Saturday nights baking cupcakes and
+photographing them for their food blogs. The kinds of kitchen work once
+associated with Depression-era farmwives - making curds and whey,
+preserving sauerkraut, grinding flour - are now thoroughly unremarkable
+pastimes for young people flush with today’s DIY back-to-basics
+spirit.
+(#matchar2013)
+
+Both note that times of recession and economic crises give rise to more work-like
+and productive leisure activities supported by a media focus on
+good-things-to-do when there was nothing to do
+(#gelber1999)
+. Matchar particularly notes the spread of anti-authoritarian
+disillusionment and this could be seen as a result of the ease of which ideas
+and information can and has spread on the internet during the latest recession.
+The internet furthermore plays a large role in the aspects of DIY and DIY
+culture.
+DIY culture is here defined as a social world surrounding DIY practitioners.
+Unruh uses social worlds to refer to a social organisation that cannot be
+defined by spatial, territorial, formal or membership boundaries (#unruh1980). Instead, a social world is defined through
+interaction and communication. DIY culture exists worldwide and varieties of DIY
+culture can be seen in most societies. There are no rules on how you engage with
+DIY culture and anyone can be part of it. Although there are no spatial,
+territorial, formal or membership boundaries of DIY culture, it exists through
+interaction and communication.
+When examining DIY culture it is not the DIY activities as such that are the
+focus. How a sweater is knitted or how the shed is built is secondary here. In
+fact, the act of knitting a sweater or building a shed is not in itself a DIY
+activity as these tasks can also be accomplished by professionals with the
+relevant formal education or training. The focus lies instead on how information
+is gathered that enables people to build sheds, or the social setting in which
+someone is motivated and gathers knowledge that enables them to knit the
+sweater, when they have had no formal training to do so. Thus, it is the
+autodidact information behaviour, which is the foundation of DIY activities,
+that is of interest here.
+DIY practitioners have no formal training or education in this particular
+activity. To do it yourself in the rawest form implies
+being completely self-taught. However, instead of the word self-taught, Solomon
+suggest using the term autodidactism:
+So self-taught will not quite do
+as a complete description of the autodidact. We need a word to describe
+a range of people who prefer to teach themselves or to pick up knowledge
+from non-teaching situations, in one way or another.
+(#solomon2003)
+
+Solomon further argues that from the time they are born humans are constantly
+being taught, or allowing themselves to be taught:
+Every time someone speaks, or points out a bird doing
+something strange on the lawn, or reconfigures the computer slowly
+enough for us to follow - if we want to, we are being taught.
+(#solomon2003)
+
+Solomon’s understanding of autodidact learning is not one of solitude, but rather
+one where we are seeking out learning and knowledge from other people. This is
+closely related to research in Human Information Behaviour, especially that in
+our everyday life:
+Information Behaviour is the totality of human behaviour
+in relation to sources and channels of information, including both
+active and passive information seeking, and information use. Thus, it
+includes face-to-face communication with others, as well as the passive
+reception of information as in, for example, watching TV advertisements,
+without any intention to act on the information given.
+(#wilson2000)
+
+Information behaviour (#fisher2006) typically focussed more on
+one-way access to information and the ways in which the individual can use this
+information. However, the field of Everyday Life Information Seeking (#savolainen1995) (ELIS) has lead to a more rounded understanding
+of information behaviour, which includes the social and collaborative nature of
+human interaction with information (i.e. the field of CIB - Collaborative
+Information Behaviour) (#talja2006). Thus, information behaviour
+is a complex area of seeking, finding, sharing, creating new and remixing old
+information. In everyday life this information behaviour becomes even more
+complex in a world of overlapping tasks for which information is sought, found,
+shared, presented and even ignored or discarded (#karlova2013).
+Therefore, most ELIS studies tend to focus on a certain task or activity for
+which it is easier to identify a group of participants. This could, for example,
+be parenting (#mckenzie2003), gourmet
+cooking (#hartel2010)
+Nevertheless, I would argue that there is a general aspect in all DIY activities
+that usually require a certain amount of autodidact information behaviour in
+order to engage with the activity. This has been the case since the first
+mentions of a DIY movement in the 1950s (#mead1957) where there
+was an increase in instructions on how-to do it yourself experienced a boom.
+This how-to genre has developed into a DIY activity in itself and this type of
+material is ever growing on the Internet and in print. The enormous amounts of
+information sharing currently going on between DIY practitioners around the
+world is creating a new type of cultural material that we in the humanities need
+to understand in order to understand current culture.
+On and offline
+DIY culture can in many ways be seen as simultaneously an online and an offline
+culture, with a complex relationship between digital and non-digital activity
+and interaction. In order to make this argument we will begin by looking at the
+relationship between time spent on and off the internet, for people of all age
+groups.
+Sigman argues that time spent online displaces face-to-face contact, and he
+explains how in turn this lack of face-to-face interaction has been shown to
+relate to increased illness and premature mortality (#sigman2009).
+While the connection between lack of social interaction and health issues is
+strong, it seems to be more difficult to find specific connections between
+internet use and health issues. Findings here are more mixed, with some studies
+showing a more positive correlation. As an example, Cotton and colleagues showed
+how internet use among older adults (50 years or older) reduced depression
+categorization by 33%(#cotten2012)
+This is furthermore an area where it is important to keep in mind the differences
+between correlation and causality. If we make the assumption that there is a
+correlation between a high degree of loneliness and a large amount of time spent
+online, do people who spend much time online become lonely as a result of less
+face-to-face contact or is it the case that people who are lonely spend more
+time online, perhaps in order to achieve more social contact via a digital
+media? Another suggestion is that there is a third factor involved which causes
+a high degree of both loneliness and spending time online, for example bullying
+or a general lack of closeness in one’s social network. It is not an easy
+question to answer and findings seem to depend on the groups of people that are
+studied. Staying with the example of loneliness, which can take different shapes
+(e.g. social or emotional loneliness), the size of social networks can for
+example have a larger impact on the social loneliness of young adults, while the
+lack of closeness to other members of a social network can have a larger impact
+on the social loneliness on older adults (#green2001)
+Nevertheless, the internet does provide an opportunity to connect with
+like-minded people or those with similar interests across large physical as well
+as social distances.
+In an attempt to teach the elderly to use computers with the prospect of enabling
+connectivity, as shown above, it made sense to change the focus of the syllabus
+towards teaching them to use the internet rather than the computer
+itselfThe class IT for beginners taught by the
+author took place through the community learning programme AOF in Denmark,
+Autumn 2013. Through this experience I identified the three most
+important things to teach them about the internet:
+
+How to access information on the internet,
+How to communicate and interact socially on the internet, and
+How to express themselves and share information on the internet.
+
+Each step led small groups of elderly individuals to a new level of motivation to
+use the internet. Despite their expectations at the beginning of the course, at
+no point were they taught anything particularly technical.
+The tech industry, amongst others, despairs over the lack of understanding of
+technology (#bt2015) among children, of which 71% (of 5-15 year
+olds in the UK) (#ofcom) have access to tablet computers at home,
+and I am sympathetic to their plight. The future of the tech industry relies on
+young people interested in working within that discipline and industry. However,
+we need to consider the following difficult and troubling suggestion:
+even though young people grow up surrounded by
+technology, many of them don’t understand the basic concepts of how it
+works – which will leave them unable to fully participate in
+society
+(#bt2015)
+. Statements like this assume that an understanding of how the internet
+and the technology behind the internet works is necessary for participation in
+society. But does technology shape society or culture, or is it culture and
+society that shape technology?
+Technology is a product of the human mind, not the other way around. So perhaps
+the issue with young people's understanding of the internet is that they
+understand it differently from those who did not grow up with it. For the older
+generation a computer is still technology, it is apart from us. For the younger
+generation, on the other hand, it is perhaps not. For them the computer provides
+opportunities to connect - the internet an abstraction which they only
+experience when it is not available.
+Another pertinent question is will their future necessarily be
+digital? Will the younger generation experience very little
+face-to-face or in-real-life interaction with other people? Mcclure suggests
+that even babies can differentiate between real live interaction via screen on
+the one hand and pre-recorded video on the other (#mcclure2013)
+(#lafrance2015). This could mean that for the younger generation
+communication mediated via screen bears a closer resemblance to physical
+socialising than to screen entertainment. Thus there is no need to understand
+technology, in order to socially interact with others via digital media. It is
+just a means for us as humans to connect, to access information, to express
+ourselves and of course to be entertained.
+Many people use the internet to express themselves creatively (a large part of
+DIY culture), some use it to express other very human sentiments, with varying
+degrees of sympathy. It is intriguing to see how connecting via the internet
+increasingly opens up to connecting in the physical world. From blogger meetups
+of the 00’s to finding on Ravelry Online knitting and crochet community
+(www.ravelry.com/) a fellow
+knitter that lives in your own neighbourhood. The internet is giving us the
+opportunity to find and connect with people who have similar values and
+interests; connections that pre-internet would have been very difficult to make.
+The internet has a great influence on DIY culture as much as DIY culture
+certainly has a great influence on the internet. As mentioned above, a large
+part of DIY culture is the use of autodidact information behaviour. It does not
+seem so much to be a question of whether the internet plays a large role in this
+information behaviour or, if not, in fact autodidact information behaviour lays
+the foundation for the internet, but rather if the internet would be as
+widespread as it is today (and continually growing), if we humans did not in the
+first place engage in autodidact information behaviour?
+But what about the non-digital world - the offline, the physical world? Most DIY
+activities are in some way very firmly grounded in the physical world. Knitting
+a sweater is a very physical activity. As is building a shed and running a food
+co-op. Running a food co-op is particularly physical and social in its very
+nature. Therefore, while a large part of autodidact information behaviour in DIY
+culture happens online, there is still a very large part of it that does
+not.Based on preliminary conclusions from wider empirical study of
+self-reported use of these autodidact information situations which the
+author is currently conducting. This illustrates that in DIY
+activities and DIY culture, the digital and the physical, being online and being
+offline, more often than not go hand in hand. The relationship between digital
+and physical material and immaterial culture is an interesting new area for the
+humanities to study, not only within media and information studies but also
+within arts, crafts, literature, music, heritage, and more. This would in many
+cases traditionally have been analysed among professional cultural practitioners
+and their cultural products. However, this paper argues that it may be just as
+relevant to examine this among DIY practitioners and DIY products.
+Humanities in a digital world
+An important part of DIY culture today is autodidact information behaviour, much
+of which (but far from all) is conducted on the internet. One of the results of
+this is an enormous amount of information, of both high and low quality,
+flooding the internet. It is generally very difficult to preserve this
+information (#kasioumis2014), let alone understand it. Attempting
+to understand products of culture and the human mind produced today is
+challenging because these materials are very diverse and have increased so
+immensely in number, particularly within DIY culture. New methods for analysing
+large amounts of data are currently in focus under the heading of Big Data
+analysis. However, any analysis of cultural products requires an understanding
+of the culture and the material (#boyd2012). There are masses of
+cultural products out there that we have not yet even begun to consider. At the
+same time new formats and producers appear every single day, both digital and
+non-digital, from the 25-year-old DIY music artist with a new single out on
+vinyl, to the 75 year old DIY gardener with a popular Youtube channel.
+Understanding these cultural products is a great challenge for humanities
+research and will continue to be so in the future. Therefore the answer to the
+question, Do the humanities by necessity have a digital
+future? must be a resounding yes and no.
+Yes, humanities research must attempt to understand cultural productions that
+are digital. No, because if we look at DIY culture we will see that there most
+likely will continue to be many cultural productions of non-digital material,
+which humanities researchers must continue to study and understand. Perhaps the
+future of the humanities is instead to learn from DIY practitioners and no
+longer distinguish so sharply between the digital and the non-digital.
+Furthermore, while the internet itself relies on technology, I argue that we
+should not understand the contents of the internet as technological products,
+but rather the products of the human mind or as cultural products. Historian Roy
+Rosenzweig made this same point in relation to Wikipedia, saying that it was
+the most important application of the principles of the
+free and open-source software movement to the world of cultural, rather
+than software, production
+(#rosenzweig2006)
+. The information shared, the opinions expressed, the communication about
+common interests and the social interactions stem from humans and not machines.
+Understanding machines or technology may give us some tools to study the
+internet, but it will never give us the ability to understand the content. For
+this we need methods developed for the understanding of cultural products, in
+other words humanities methods. So, to answer the question again; yes, the
+humanities do have a necessary digital future in that it will be necessary to
+use digital tools to study both digital and non-digital material, and no,
+because without traditional methods for understanding cultural products we
+simply will not be able to understand either digital or non-digital material.
+The implications of this yes and no answer can be understood
+through the following two examples. The first is an example of computer
+technology aiding humanities scholarship. The premise here was to examine how
+technology could aid a scholar during the scholar's
+reading of ancient documents (#rouedcunliffe2010). The italics are
+added to emphasise that the scholar’s humanities-based methods for reading
+stayed the same and that technology merely added speed or ease to certain
+aspects of the process. For example the speed of finding parallel readings in
+the same or other corpora or the ease with which evidence that supported certain
+readings is remembered (#rouedcunliffe2013). In this example the
+materials studied (i.e. ancient documents from the Roman fort of Vindolanda in
+the North of England
+http://vto2.classics.ox.ac.uk/) are cultural products that
+at first were not digital. However, the fragile state of most of these documents
+as well as the physical location of the scholars was such that the documents
+studied were often in fact digital photographs. Here scholars moved from the
+study of physical objects to the study of digital objects. The methods for
+studying the documents were very traditional for the field of papyrology. Terras
+describes the complex and cyclical process in the following way:
+An expert reads an ancient document by identifying
+visual features, and then incrementally building up knowledge about the
+document’s characters, combinations of characters, words, grammar,
+phrases, and meaning, continually proposing hypotheses, and checking
+those against other information, until s/he finds that this process is
+exhausted
+(#terras2005)
+.
+Along the way there are aspects of this process that are typically done by
+non-digital means but which can alternatively be aided by digital
+technology. First is the identification of visual features where the scholars,
+in the case of quite illegible incised texts, would typically use a light source
+to cast a shadow on the document and by tipping the document to and fro this
+enables the scholar to make out the incisions (#brady2005). This
+is a cumbersome and unreliable method and therefore the project attempted to aid
+this task with digital image processing techniques (#terras2012)
+The second part of the process is the building up of knowledge about the
+characters, words and phrases in the document. Typically, this will happen today
+by keeping digital and non-digital notes about the different interpretations and
+decisions made along the way. Therefore, attempts were made at showing how a
+digital Decision Support System would enable the scholar to
+organise and remember these interpretations and the basis on which they were
+made (#rouedcunliffe2013).
+The final part of the process, as described here, is checking against other
+information. This traditionally required access to copies of published editions
+that could contain relevant parallels to the documents being studied. Potential
+parallels would be found by trawling through indices. This is a part of the
+process of reading ancient documents where digital technology and the internet
+has had a great influence. By digitally publishing interpreted editions online
+(using XML), and by making them accessible through search engines this task has
+become much lighter and has made the texts more easily accessible by scholars
+around the world. As the example shows, even a traditional digital humanities
+project that works with digital tools for the reading of handwritten texts
+continually oscillates between digital and non-digital tools, methods and
+material.
+However, as this second example will show, the reading of handwritten texts is
+not a method used only by scholars in academia. Genealogy is probably the most
+well-known DIY activity in which the skill of reading old handwritten texts is
+quite essential. My own experience of working with family history and engaging
+with other genealogists has led to a few observations in relation to this
+skill:
+
+Genealogists, depending on their level of experience, usually have some
+skills in reading handwritten texts, ranging from beginners to experts.
+These experts are able to read Latin texts, written in a very illegible
+Gothic script.
+Experts and beginners alike usually collaborate on the reading of texts
+that are related to their own family history and they do this both online
+and offline.
+Genealogists usually gather the skills and knowledge needed for this task
+through the different autodidact information situations mentioned
+above.
+Genealogists use a greater variety of different digital tools and
+platforms depending on their level of digital literacy, than I have
+experienced among scholars.
+
+For these skills particularly, genealogists and other amateur historians are
+regularly used as volunteer transcribers in museums and archives. With digital
+media and the internet, GLAM institutions (i.e. galleries, libraries, archives
+and museums) are now able to structure these skills and use them more
+efficiently to transcribe material in their collections; in other words, to use
+these skills in crowdsourcing projects (#ridge2013)
+This second example suggests that perhaps the skills involved are not what
+separates the DIY practitioner from the professional practitioner, neither is
+the need for social networking or collaboration. The motivations for reading
+handwritten documents are most likely the same, namely recognition and
+furthering their understanding of the subject at hand. Perhaps what really
+divides the waters is the information behaviour and whether this is taught or it
+is autodidact. The consequence of this difference is often that DIY
+practitioners are in a position to be more adaptable and innovative in their use
+of digital technology in a way that can be difficult within the organisational
+structures surrounding the humanities.
+Nevertheless, one lesson that can be learned from both examples is that the very
+traditional humanities method of reading handwritten texts, whether or not it is
+done as a DIY activity, will involve digital tools in one way or another.
+Conclusion
+DIY culture is a social world of people engaging in DIY activities, which have in
+common that they are activities undertaken without any formal education or
+training. Information behaviour in DIY culture is autodidact and information
+sharing is informal and outside of organisational structures. Furthermore, it is
+rarely dependant on funding and thus has the potential to incorporate innovative
+solutions at a higher speed than we typically see in the humanities. This is why
+on the one hand it is important for the Digital Humanities to look towards DIY
+culture and learn from the methods and practises that occur here.
+On the other hand, the information sought, created and shared within DIY culture,
+both on– and offline, is a product of the human mind and can, along with more
+traditional cultural products, be understood by humanities scholars. The
+Internet is currently exploding with this material, alongside more frivolous
+entertainment content. If we in the humanities want to understand our current
+culture, now and in the future, we need to study DIY culture, both off- and
+online to a much higher degree than is currently the case.
+Therefore, the answer to the question whether the humanities by necessity have a
+digital future is two-fold. Yes, the humanities need to employ digital tools in
+order to understand culture and cultural products on the internet However,
+humanities does not have a solely digital future as culture and cultural
+products will continue to blossom offline and traditional humanities methods are
+needed in order to understand these too.
+
+
+Bod, Rens. A New
+History of the Humanities, the Search for Principles and Patterns from
+Antiquity to the Present. Oxford: Oxford University Press,
+2014.
+Boyd, Danah, and Kate
+Crawford. CRITICAL QUESTIONS FOR BIG DATA: Provocations for
+a Cultural, Technological, and Scholarly Phenomenon.
+Information, CommunicationSociety 15, no. 5
+(2012): 662–79. doi:10.1080/1369118X.2012.678878.
+Brady, Michael, X. Pan, Veit U. B.
+Schenk, Melissa Terras, Paul Robertson, and N. Molton. Shadow Stereo, Image Filtering and Constraint Propagation. In
+Images and Artefacts of the Ancient World,
+edited by Alan K. Bowman and Michael Brady, 4:15–30. British Academy British
+Academy Occasional Paper. Oxford University Press/British Academy, 2005.
+BT. The Tech Literacy
+Challenge: Building a Culture of Tech Literacy for the Nation, 2015.
+http://home.bt.com/pages/techliteracy/BT_Tech_Literacy.pdf
+Cotten, Shelia R., George Ford,
+Sherry Ford, and Timothy M. Hale. Internet Use and
+Depression among Older Adults.
+Computers in Human Behavior 28, no. 2 (2012):
+496.
+Fisher, Karen E, Sanda Erdelez,
+and Lynne E.F McKechnie. Theories of Information
+Behavior. Medford, N.J: Published for the American Society for
+Information Science and Technology by Information Today, 2006.
+Gelber, Steven M. Hobbies : Leisure and the Culture of Work in America. New York:
+Columbia University Press, 1999.
+Green, Laura R., Deborah S.
+Richardson, Tania Lago, and Elizabeth C. Schatten-Jones. Network Correlates of Social and Emotional Loneliness in Young and Older
+Adults.
+PersonalitySocial Psychology Bulletin 27,
+no. 3 (2001): 281.
+Hartel, Jenna. Managing Documents at Home for Serious Leisure: A Case Study of the Hobby
+of Gourmet Cooking.
+Journal of Documentation 66, no. 6 (2010):
+847–74.
+Karlova, Natascha A., and
+Karen E. Fisher. A Social Diffusion Model of Misinformation
+and Disinformation for Understanding Human Information Behaviour.
+Information Research 18, no. 1 (2013). http://www.informationr.net/ir/18-1/paper573.html#.VZUGDhOqpBc
+Kasioumis, Nikos, Vangelis
+Banos, and Hendrik Kalb. Towards Building a Blog
+Preservation Platform.
+Internet and Web Information Systems 17, no. 4
+(2014): 799–825.
+LaFrance, Adrienne. 2015. Do Babies Know When They’re Skyping?
+The Atlantic, September 10. http://www.theatlantic.com/technology/archive/2015/09/do-babies-know-when-theyre-skyping/404650/
+Matchar, Emily. Homeward Bound: Why Women Are Embracing the New Domesticity. Simon
+Schuster, 2013.
+Mcclure, Elisabeth. 2013. Infant Emotional Engagement in Video Mediated
+Interactions.
+IDC ’13, 655–58.
+doi:10.1145/2485760.2485874.
+McKenzie, Pamela J. A Model of Information Practices in Accounts of Everyday-Life
+Information Seeking.
+Journal of Documentation 59, no. 1 (2003):
+19–40.
+Mead, M. (1957). The
+Pattern of Leisure in Contemporary American Culture.
+The Annals of the American Academy of Political and Social
+Science, 313, 11–15.
+Ofcom. Children and
+Parents: Media Use and Attitudes Report, 2014. http://stakeholders.ofcom.org.uk/binaries/research/media-literacy/media-use-attitudes-14/Childrens_2014_Report.pdf
+Prigoda, Elena, and
+Pamela J. McKenzie. Purls of Wisdom. Journal of Documentation 63, no. 1 (2007):
+90–114.
+Ridge, Mia. From
+Tagging to Theorizing: Deepening Engagement with Cultural Heritage through
+Crowdsourcing.
+Curator: The Museum Journal 56, no. 4 (2013):
+435–50.
+Roued-Cunliffe,
+Henriette. A Decision-Support System for the Reading of
+Ancient Documents. Doctoral thesis, University of Oxford,
+2013.
+Roued-Cunliffe,
+Henriette. Archiving Online Do-It-Yourself Culture.
+Aarhus, Danmark, 2015. ref
+target="http://events.netlab.dk/conference/index.php/resaw/june2015/paper/view/38
+Roued-Cunliffe,
+Henriette. Towards a Decision Support System for Reading
+Ancient Documents.
+Literary and Linguistic Computing 25, no. 4 (2010):
+365–79. doi:10.1093/llc/fqq020.
+Rosenzweig, R. (2006). Can History Be Open Source? Wikipedia and the Future of the
+Past.
+Journal of American History, 93(1), 117–146.
+http://doi.org/10.2307/4486062
+Savolainen, Reijo. Everyday Life Information Seeking: Approaching Information
+Seeking in the Context of way of Life. Library and Information Science Research 17, no. 3
+(1995): 259–94.
+Sigman, Aric. Well Connected?: The Biological Implications of Social
+Networking.
+Biologist 56, no. 1 (2009). http://www.aricsigman.com/IMAGES/Sigman_lo.pdf
+Skov, Mette. Hobby-Related Information-Seeking Behaviour of Highly Dedicated Online
+Museum Visitors.
+Information Research 18, no. 4 (2013). http://www.informationr.net/ir/18-4/paper597.html#.U_B7fUhDLw0
+Solomon, Joan. Theories of Learning and the Range of Autodidactism. In The Passion to Learn : An Inquiry into Autodidactism,
+edited by Joan Solomon, 3–23. London: RoutledgeFalmer, 2003.
+Stebbins, Robert A. Serious Leisure: A Perspective for Our Time. New
+Brunswick, N.J: Transaction Publishers, 2007.
+Talja, Sanna, and Preben Hansen.
+Information Sharing. In New Directions in Human Information Behavior, edited by Amanda
+Spink and Charles Cole, 113–34. Dordrecht, the Netherlands: Springer,
+2006.
+Terras, Melissa. Reading the Readers: Modelling Complex Humanities Processes to Build
+Cognitive Systems.
+Literary and Linguistic Computing 20 (2005):
+41–59.
+Terras, Melissa. Image Processing in the Digital Humanities. In Digital Humanities in Practice, edited by Claire Warwick, Melissa
+Terras, and Julianne Nyhan. London: Facet Publishing, 2012. https://www-dawsonera-com.ep.fjernadgang.kb.dk/abstract/9781856049054
+Unruh, David R. The
+Nature of Social Worlds.
+The Pacific Sociological Review 23, no. 3 (1980):
+271–96.
+Wilson, Tom D. Human Information Behaviour.
+Informing Science 3, no. 2 (2000). https://www.ischool.utexas.edu/~i385e/readings/Wilson.pdf
+Yakel, Elizabeth. Seeking Information, Seeking Connections, Seeking Meaning: Genealogists and
+Family Historians. Genealogy, Family History, Information Seeking, Archives,
+Personal Information Management.
+Information Research: An International Electronic
+Journal 10, no. 1 (2004): 205 – .
+Yeoman, Alison. Applying McKenzie’s Model of Information Practices in Everyday Life
+Information Seeking in the Context of the Menopause Transition.
+Information Research 15, no. 4 (2010).
+
